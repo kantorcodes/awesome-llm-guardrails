@@ -89,6 +89,7 @@ Guardrails are the checks that sit around a language model, screening what goes 
 - [cc-safety-net](https://github.com/kenryu42/cc-safety-net) - Pre-execution hook that blocks destructive git and file commands from coding agents.
 - [Destructive Command Guard](https://github.com/Dicklesworthstone/destructive_command_guard) - Hook that stops coding agents from running dangerous git and shell commands.
 - [Failproof AI](https://github.com/FailproofAI/failproofai) - Hooks into coding agent harnesses to record runs and block risky tool calls by policy.
+- [HOL Guard](https://hol.org/guard) - Checks supported coding-agent actions and asks for approval or blocks them by policy.
 - [Invariant Guardrails](https://github.com/invariantlabs-ai/invariant) - Rule language that checks agent traces and tool calls for unsafe data flows.
 - [LlamaFirewall](https://github.com/meta-llama/PurpleLlama/tree/main/LlamaFirewall) - Meta framework that scans agent inputs, reasoning and generated code for attacks.
 - [OpenAPPA](https://github.com/archestra-ai/OpenAPPA) - Checks each agent action against a policy on whether data may flow to its destination.
